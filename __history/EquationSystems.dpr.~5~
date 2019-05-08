@@ -2,7 +2,7 @@ program EquationSystems;
 
 uses
   Forms,
-  equations in '..\git-lab-2_group2705_3\equations.pas' {Form1};
+  equations in '..\git_lab2\equations.pas' {Form1};
 
 {$R *.res}
 
